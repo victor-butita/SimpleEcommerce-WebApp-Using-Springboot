@@ -82,6 +82,16 @@ Copy code
 │   └── images
 How to Contribute
 Fork the repository
+
+![image](https://github.com/user-attachments/assets/e5a9863f-4fa4-470a-b05a-d6f3b0df70f8)
+
+![image](https://github.com/user-attachments/assets/512c572e-6165-4d38-8a4c-56d33c8c2d0f)
+
+![image](https://github.com/user-attachments/assets/5e0c3a7b-8303-4b29-9292-5bf31c22b546)
+
+
+
+
 Create a new branch (git checkout -b feature-branch)
 Make your changes
 Commit your changes (git commit -m 'Add some feature')
